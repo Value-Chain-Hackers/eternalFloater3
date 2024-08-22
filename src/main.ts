@@ -7,7 +7,7 @@ console.log('Script started successfully');
 WA.onInit().then(() => {        WA.nav.goToRoom("#start")})
 
 let currentPopup: any = undefined;
-s
+
 // Waiting for the API to be ready
 WA.onInit().then(() => {
     console.log('Scripting API ready');
